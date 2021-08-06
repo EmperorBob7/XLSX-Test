@@ -1,0 +1,14 @@
+{
+  "name": "xlsx-test",
+  "version": "1.0.0",
+  "description": "Testing XLSX",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Emperor Bob",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.17.0"
+  }
+}
