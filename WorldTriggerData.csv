@@ -1,0 +1,135 @@
+Name,Gender,Age,BirthMonth,BirthDay,Height,BloodType,HairColour,HairReal,EyeColour,EyeReal,Handedness,Glasses,SideEffect,PreferencePersonality,PreferenceLooks,PopularityActual,PopularityWanted,StaminaStrength,Exercise,Grades,SportsArts,TimeInBorder,Faction,Position,PosNoAllround,Rank,Trion,Attack,DefenceSupport,Mobility,Skill,Range,Command,SpecialTactics,MechanicsOperation,DataAnalysis,ParallelProcessing,Tactics,Main1,Main2,Main3,Main4,Sub1,Sub2,Sub3,Sub4
+Shinoda Masafumi,M,33,10,16,181,A,Black,Black,Black,Black,R,No glasses,0,21.5,9,24.5,4,14,29,23,19,10,Shinoda,Executive,,,7,14,9,7,10,3,10,2,,,,,,,,,,,,
+Rindo Takumi,M,34,11,2,179,AB,Black,Black,,,R,Glasses,0,29,3,16,15,3,18,12,6,10,Tamakoma,Executive,,,9,10,10,6,8,6,9,7,,,,,,,,,,,,
+Sawamura Kyoko,F,25,7,22,164,A,Black,Black,Brown,Brown,R,No glasses,0,4.5,13.5,24,13,5,28,18,18,3.8,Shinoda,Executive,,,6,7,9,7,7,3,6,2,,,,,,,,,,,,
+Terashima Raizo,M,21,11,5,170,A,Brown,Brown,Black,Black,R,No glasses,0,,,,,,,,,,,Engineer,,,7,9,6,7,10,2,3,2,,,,,,,,,,,,
+Amo Tsukihiko,M,16,12,3,165,A,Black,Black,Yellow,Other,R,No glasses,1,27,14,14,1.5,13.5,13,15,12,2.5,Kido,Attacker,Attacker,S,9,9,9,7,9,5,2,4,,,,,,,,,,,,
+Tachikawa Kei,M,20,8,29,180,A,Brown,Brown,Black,Black,R,No glasses,0,25,16.5,16,13,11,24,7,14,4,Kido,Attacker,Attacker,A,6,14,9,8,8,2,7,2,,,,,Kogetsu,Senkuu,Shield,Grasshopper,Kogetsu,Senkuu,Shield,Bagworm
+Izumi Kohei,M,17,9,2,175,B,Blonde,Blonde,Brown,Brown,R,No glasses,0,22.5,11.5,21,13,9,15,18.5,9,2.5,Kido,Shooter,Shooter,A,12,8,10,5,9,5,3,4,,,,,Asteroid,Meteora,Bagworm,Shield,Asteroid,Viper,Hound,Shield
+Yuiga Takeru,M,16,6,30,169,O,Black,Black,Black,Black,R,No glasses,0,2.5,19.5,5,19,13,2.5,22,3,1.17,Kido,Gunner,Gunner,A,5,3,4,4,4,4,1,1,,,,,Asteroid (handgun),Chameleon,Shield,,Asteroid (handgun),,Shield,Bagworm
+Kunichika Yu,F,18,2,2,163,B,Brown,Brown,Brown,Brown,R,Contacts,0,19.5,19,24,9,5,4,9,2,2,None,Operator,Operator,A,1,,,,,,6,,10,8,9,7,,,,,,,,
+Fuyushima Shinji,M,29,1,3,184,B,Brown,Brown,Black,Black,R,Contacts,0,6,17,15,17,10,4,23.5,5.5,4,Kido,Trapper,Trapper,A,8,4,10,3,8,4,5,10,,,,,Switchbox,Chameleon,Shield,,Bagworm Tag,,,
+Toma Isami,M,18,7,7,183,AB,Black,Black,Black,Black,R,No glasses,0,24,14,15,12,9,8,6,10,1.83,Kido,Sniper,Sniper,A,6,9,7,4,13,10,2,2,,,,,Eaglet,Shield,,,Bagworm,Shield,,
+Kazama Soya,M,21,9,24,158,A,Black,Black,Red,Other,R,No glasses,0,16,2.5,23.5,2,13,26.5,20,14,4,Kido,Attacker,Attacker,A,6,9,8,9,9,1,9,8,,,,,Scorpion,,Shield,,Scorpion,Chameleon,Shield,Bagworm
+Utagawa Ryo,M,16,6,10,173,A,Brown,Brown,Brown,Brown,R,No glasses,0,21.5,6.5,25,9.5,10,28,22,19,1.67,Shinoda,All-rounder,Shooter,A,6,7,9,8,8,3,4,8,,,,,Scorpion,Meteora,Shield,Asteroid,Scorpion,Chameleon,Shield,Bagworm
+Kikuchihara Shiro,M,16,12,14,164,O,Brown,Brown,Black,Black,R,No glasses,1,24,10,19,1,15,14,21,1.5,1.67,Kido,Attacker,Attacker,A,8,7,7,8,8,1,4,8,,,,,Scorpion,,Shield,,Scorpion,Chameleon,Shield,Bagworm
+Mikami Kaho,F,16,2,23,152,A,Black,Black,Brown,Brown,R,No glasses,0,,,,,,,,,2.17,Shinoda,Operator,Operator,A,2,,,,,,6,,8,8,9,7,,,,,,,,
+Midorikawa Shun,M,14,10,20,157,O,Brown,Brown,Green,Green,R,No glasses,0,21,16,19,10,20,27,8.5,19,1.08,Shinoda,Attacker,Attacker,A,5,9,6,11,7,1,3,2,,,,,Scorpion,Grasshopper,Shield,,Scorpion,Grasshopper,Shield,Bagworm
+Arashiyama Jun,M,18,7,29,179,O,Black,Black,Green,Green,R,No glasses,0,19,8,27,6,8,28,27,18,3.8,Shinoda,All-rounder,Attacker,A,7,7,9,7,8,4,8,4,,,,,Asteroid (assault rifle),Meteora (assault rifle),Shield,,Scorpion,Teleporter,Shield,Bagworm
+Kitora Ai,F,15,6,26,161,A,Black,Black,Purple,Other,R,No glasses,0,3,12,22,13,12,25,29,12,1.17,Shinoda,All-rounder,Gunner,A,4,8,7,8,9,3,6,4,,,,,Asteroid (handgun),Spider,Shield,,Scorpion,,Shield,Bagworm
+Tokieda Mitsuru,M,16,4,12,167,A,Blonde,Blonde,Green,Green,R,No glasses,0,16,7,23,3,6,22,20,4,2.67,Shinoda,All-rounder,Gunner,A,7,7,9,7,8,4,4,2,,,,,Asteroid (assault rifle),Meteora (assault rifle),Shield,,Scorpion,Teleporter,Shield,Bagworm
+Satori Ken,M,16,7,1,171,O,Brown,Brown,Green,Green,R,No glasses,0,16,10,16,18,11,21,9,9,2.67,Shinoda,Sniper,Sniper,A,6,8,6,5,9,8,2,4,,,,,Eaglet,,Shield,,Eaglet,,Shield,Bagworm
+Ayatsuji Haruka,F,17,5,4,163,A,Brown,Brown,Brown,Brown,R,No glasses,0,10,9,29,6,5,12,29,4.5,2.5,Shinoda,Operator,Operator,A,2,,,,,,7,,8,8,8,7,,,,,,,,
+Kako Nozomi,F,20,12,25,173,B,Blonde,Blonde,Green,Green,L,No glasses,0,10,13,21,15,10,18,21,11,2.83,None,Shooter,Shooter,A,9,8,5,7,8,4,6,7,,,,,Scorpion,Timer,Shield,Bagworm,Hound,Asteroid,Shield,Teleporter
+Kuroe Futaba,F,13,11,30,142,B,Blonde,Blonde,Brown,Brown,R,No glasses,0,11,12,19,14,19,24,16,17,0.92,None,Attacker,Attacker,A,6,8,5,10,6,2,1,6,,,,,Kogetsu,Makou,Shield,Senkuu,Skarga,,Shield,Bagworm
+Miwa Shuji,M,17,10,2,174,A,Black,Black,Red,Other,R,No glasses,0,26.5,5,21,6.5,16.5,24,23,11,3.8,Kido,All-rounder,Attacker,A,6,8,8,7,9,3,6,5,,,,,Kogetsu,,Shield,Bagworm,Asteroid (handgun),Viper (handgun),Shield,Lead Bullet
+Yoneya Yosuke,M,17,11,29,175,B,Black,Black,Black,Black,R,No glasses,0,28,6.5,19,7,12,28,4,20,1.83,Kido,Attacker,Attacker,A,4,8,8,9,9,2,4,4,,,,,Kogetsu,Genyou,Shield,Senkuu,,,Shield,Bagworm
+Narasaka Toru,M,17,9,14,177,AB,Brown,Brown,Green,Green,R,No glasses,0,8,9,28,2,4,17,25.5,8,1.67,Kido,Sniper,Sniper,A,6,9,7,5,12,12,4,1,,,,,Eaglet,Ibis,Shield,Lightning,Bagworm,,Shield,
+Kodera Shohei,M,16,11,10,167,A,Brown,Brown,Green,Green,R,Glasses,0,23,17,13,10,3.5,15,29,7,1.5,Kido,Sniper,Sniper,A,6,6,7,4,9,8,6,1,,,,,Eaglet,Ibis,Shield,Lightning,Bagworm,,Shield,
+Tsukimi Ren,F,19,7,25,165,AB,Black,Black,Purple,Other,R,No glasses,0,18,11,26,7.5,3,25,28,14,3.8,Kido,Operator,Operator,A,4,,,,,,9,,7,7,7,8,,,,,,,,
+Kizaki Reiji,M,21,7,2,191,A,Red,Red,Green,Green,R,No glasses,0,7.5,14.5,18,6,11.5,29.5,17.5,19,6,Tamakoma,All-rounder,,A,11,9,10,7,9,7,8,5,,,,,Raygust,Thruster,Shield,Meteora,Asteroid (gatling gun),Bagworm,Hound (assault rifle),Spider
+Konami Kirie,F,17,7,28,157,B,Blonde,Blonde,Blue,Blue,R,No glasses,0,17.5,3,24,16,15,18,27,12,6.5,Tamakoma,Attacker,Attacker,A,6,13,7,10,9,3,4,3,,,,,Kogetsu,Meteora,Shield,,Kogetsu,Meteora,Shield,Bagworm
+Karasuma Kyosuke,M,16,5,9,178,O,Black,Black,Brown,Brown,R,No glasses,0,25,11,29.5,3,8,24.5,18,12,2.33,Tamakoma,All-rounder,Gunner,A,7,8,8,7,8,4,6,5,,,,,Kogetsu,Asteroid (assault rifle),Viper (assault rifle),Shield,Escudo,,,Bagworm
+Usami Shiori,F,17,4,27,160,O,Black,Black,Black,Black,R,Glasses,0,12,7,23,11,4,7,29,1.5,2.17,Tamakoma,Operator,Operator,A,1,,,,,,7,,10,8,7,7,,,,,,,,
+Jin Yuichi,M,19,4,9,179,O,Brown,Brown,Blue,Blue,R,No glasses,1,27.5,17.5,17.5,15,12,20,16,14,6,Tamakoma,Attacker,Attacker,A,7,10,15,7,9,1,7,3,,,,,Scorpion,Escudo,Shield,,Scorpion,Escudo,Shield,Bagworm
+Ninomiya Masataka,M,20,10,27,184,A,Brown,Brown,Brown,Brown,R,No glasses,0,13.5,9,25,6,10,22.5,27,15,2.83,Kido,Shooter,Shooter,B,14,12,7,6,8,6,7,2,,,,,Asteroid,Hound,Shield,Meteora,Asteroid,Hound,Shield,Bagworm
+Inukai Sumiharu,M,16,5,1,176,AB,Blonde,Blonde,Green,Green,R,No glasses,0,8.5,11.5,26,16,8,19,21,7,1.83,Kido,Gunner,Gunner,B,8,8,7,7,8,4,5,2,,,,,Asteroid (assault rifle),Hound (assault rifle),Shield,,Hound,Scorpion,Shield,Bagworm
+Tsuji Shinnosuke,M,17,8,16,178,B,Black,Black,Black,Black,R,No glasses,0,6,9,21,10.5,14,22,24,9,2.17,Kido,Attacker,Attacker,B,6,7,9,7,8,2,5,2,,,,,Kogetsu,Senkuu,Shield,,,,Shield,Bagworm
+Hiyami Aki,F,17,1,25,155,B,Blonde,Blonde,Blue,Blue,R,No glasses,0,10,17,21,4,5,1.5,27,1.5,1.67,Kido,Operator,Operator,B,2,,,,,,7,,7,8,8,7,,,,,,,,
+Hatohara Mirai,F,18,1,14,158,O,Black,Black,Black,Black,R,No glasses,0,,,,,,,,,,,Sniper,Sniper,,8,1,8,4,14,10,2,4,,,,,Eaglet,Ibis,Shield,Spider,Bagworm,,Shield,
+Kageura Masato,M,18,6,4,177,B,Black,Black,Yellow,Other,R,No glasses,1,11,2,15,2,19,19,7.5,11.5,2.33,None,Attacker,Attacker,B,7,12,5,7,9,2,4,5,,,,,Scorpion,,Shield,,Scorpion,,Shield,Bagworm
+Ema Yuzuru,M,14,12,9,156,O,Brown,Brown,Green,Green,R,No glasses,0,3,10,14,7,8,11,15,1.5,1.17,None,Sniper,Sniper,B,6,8,6,5,10,9,2,1,,,,,Ibis,Eaglet,Shield,Lightning,Bagworm,,Shield,
+Kitazoe Hiro,M,18,4,15,189,O,Brown,Brown,,,R,No glasses,0,19,11,20,7.5,6.5,26,13,13.5,2,None,Gunner,Gunner,B,9,7,7,5,7,6,4,3,,,,,Meteora (grenade launcher),Asteroid (assault rifle),Shield,,Meteora (grenade launcher),,Shield,Bagworm
+Nire Hikari,F,17,7,27,159,AB,Brown,Brown,Red,Other,R,No glasses,0,20.5,5.5,18,17.5,9,10,4,6,1.83,None,Operator,Operator,B,5,,,,,,6,,7,7,8,7,,,,,,,,
+Kuruma Tatsuya,M,19,2,18,176,A,Brown,Brown,Black,Black,R,No glasses,0,10,6,20,5.5,13,15.5,27,5,1.33,Shinoda,Gunner,Gunner,B,6,5,6,5,7,4,6,3,,,,,Asteroid (assault rifle),Hound (assault rifle),Shield,,Silencer,,Shield,Bagworm
+Murakami Ko,M,18,6,15,172,B,Grey,Other,Black,Black,R,No glasses,1,18,12.5,20,3,14,25.5,26,17,1.17,None,Attacker,Attacker,B,7,9,10,7,9,2,5,3,,,,,Kogetsu,Senkuu,Shield,,Raygust,Thruster,Shield,Bagworm
+Betsuyaku Taichi,M,16,11,27,168,B,Black,Black,Black,Black,R,No glasses,0,12.5,17,12,16,5,16,5,11,1.17,Kido,Sniper,Sniper,B,5,6,4,5,7,7,2,2,,,,,Eaglet,Ibis,Shield,Lightning,Bagworm,,Shield,
+Kon Yuka,F,18,9,1,159,O,Black,Black,Blue,Blue,R,Contacts,0,7.5,7,17,13,1.5,20,27,2,1.33,Shinoda,Operator,Operator,B,3,,,,,,7,,6,8,7,7,,,,,,,,
+Azuma Haruaki,M,25,1,3,186,A,Black,Black,Black,Black,R,No glasses,0,26,8.5,21,2,8,23,28,10,4,Shinoda,Sniper,Sniper,B,7,8,11,5,10,10,10,5,,,,,Ibis,Eaglet,Shield,Lightning,Bagworm,Dummy Beacon,Shield,
+Koarai Noboru,M,16,4,24,165,O,Blonde,Blonde,Brown,Brown,R,No glasses,0,17,9,13,14,18,25,13,18,1.5,Kido,Attacker,Attacker,B,4,7,6,8,6,2,2,2,,,,,Kogetsu,Senkuu,Shield,Grasshopper,,,Shield,Bagworm
+Okudera Tsuneyuki,M,16,5,20,167,A,Brown,Brown,Brown,Brown,R,No glasses,0,18,8,17,8,5,25,17.5,14,1.5,Kido,Attacker,Attacker,B,5,6,6,8,7,2,3,2,,,,,Kogetsu,Senkuu,Shield,Grasshopper,,,Shield,Bagworm
+Hitomi Mako,F,18,8,28,162,AB,Brown,Brown,Blue,Blue,R,Contacts,0,6,13,17,11,2,21,25,13,1.5,Shinoda,Operator,Operator,B,3,,,,,,7,,8,8,7,6,,,,,,,,
+Mikumo Osamu,M,15,5,25,168,A,Black,Black,Green,Green,L,Glasses,0,14.5,4.5,15,5,6,8.5,22,6.5,0.5,Tamakoma,Shooter,Shooter,B,2,3,4,4,5,4,6,4,,,,,Raygust,Thruster,,Spider,Asteroid,,Shield,Bagworm
+Kuga Yuma,M,15,7,18,141,,White,Other,Red,Other,R,No glasses,1,26,13,20,2,16,28,3,11,0.17,Tamakoma,Attacker,Attacker,B,7,9,8,10,8,2,5,4,,,,,Scorpion,Grasshopper,Shield,,Scorpion,Grasshopper,Shield,Bagworm
+Amatori Chika,F,14,2,11,140,A,Black,Black,Purple,Other,R,No glasses,1,4.5,8,17,2.5,2,17,16,2,0.17,Tamakoma,Sniper,Sniper,B,38,2,5,3,6,8,1,1,,,,,Ibis,Eaglet,Shield,Lightning,Bagworm,,Shield,Lead Bullet
+Katori Youko,F,16,10,18,157,O,Red,Red,Green,Green,R,No glasses,0,5,20,23,19,17,21,22,8,1.83,Kido,All-rounder,Attacker,B,6,9,6,8,7,3,5,2,,,,,Scorpion,Asteroid (handgun),Shield,Grasshopper,Scorpion,Hound (handgun),Shield,Bagworm
+Miura Yuta,M,17,9,3,173,B,Brown,Brown,,,R,No glasses,0,18,16,11,8,7,18,17,9,1.83,Kido,Attacker,Attacker,B,5,6,6,8,6,2,2,3,,,,,Kogetsu,Senkuu,Shield,Genyou,Chameleon,,Shield,Bagworm
+Wakamura Rokuro,M,17,4,16,172,B,Blonde,Blonde,Blue,Blue,R,Glasses,0,9,7,19.5,12,7,20,22,12,1.83,Kido,Gunner,Gunner,B,6,6,7,6,7,4,3,3,,,,,Asteroid (assault rifle),Hound (assault rifle),Shield,,Chameleon,,Shield,Bagworm
+Somei Hana,F,16,7,18,155,AB,Brown,Brown,Grey,Other,R,Glasses,0,20,9.5,11,2,2,15,28,6,1.83,Kido,Operator,Operator,B,2,,,,,,7,,8,7,5,7,,,,,,,,
+Suwa Kotaro,M,21,8,1,178,A,Blonde,Blonde,Brown,Brown,R,No glasses,0,28,11,14,15,12,19,17,11,2.83,Shinoda,Gunner,Gunner,B,6,9,6,7,7,3,5,2,,,,,Asteroid (shotgun),,Shield,,Asteroid (shotgun),Starmaker,Shield,Bagworm
+Tsutsumi Daichi,M,20,10,11,181,O,Brown,Brown,,,R,No glasses,0,22.5,4.5,18.5,4,7,24,23.5,14.5,2.67,Shinoda,Gunner,Gunner,B,7,8,7,7,7,3,4,2,,,,,Asteroid (shotgun),,Shield,,Asteroid (shotgun),Starmaker,Shield,Bagworm
+Sasamori Hisato,M,16,1,18,168,A,Brown,Brown,Brown,Brown,R,No glasses,0,24,6,16,9,12.5,22.5,17,15,1.5,Shinoda,Attacker,Attacker,B,5,6,7,7,6,2,3,5,,,,,Kogetsu,Senkuu,Shield,,,Chameleon,Shield,Bagworm
+Osano Rui,F,17,7,13,155,A,Brown,Brown,Green,Green,R,No glasses,0,12,3,27,11,6,18,6,16,2,None,Operator,Operator,B,4,,,,,,6,,7,6,9,6,,,,,,,,
+Arafune Tetsuji,M,18,9,9,176,B,Brown,Brown,Grey,Other,L,No glasses,0,5,6,23.5,5,9.5,27,27,19,1.83,Shinoda,Sniper,Sniper,B,6,8,8,5,8,7,5,5,,,,,Eaglet,Shield,Kogetsu,Senkuu,Bagworm,Shield,,
+Hokari Atsushi,M,18,6,15,180,O,Black,Black,Black,Black,R,No glasses,0,21,10.5,22,11,15.5,26.5,19.5,16,1.83,None,Sniper,Sniper,B,7,7,8,5,8,8,3,5,,,,,Eaglet,Shield,,,Bagworm,Shield,,
+Hanzaki Yoshito,M,16,2,10,160,O,Blonde,Blonde,Black,Black,R,No glasses,0,15,12,13,3,6.5,15,17,3,1.67,Kido,Sniper,Sniper,B,5,6,8,4,11,11,1,5,,,,,Eaglet,Shield,,,Bagworm,Shield,,
+Kagami Rin,F,18,9,19,159,B,Black,Black,Green,Green,R,Contacts,0,14,14,16,11,11,14,24,3,2.5,None,Operator,Operator,B,2,,,,,,6,,8,7,6,7,,,,,,,,
+Nasu Rei,F,17,6,16,159,A,Blonde,Blonde,Green,Green,R,No glasses,0,19,7,25,2,7,0.5,28,8,1.5,None,Shooter,Shooter,B,7,8,6,8,8,4,5,4,,,,,Viper,Asteroid,Shield,Meteora,Viper,,Shield,Bagworm
+Kumagai Yuko,F,17,4,14,171,O,Black,Black,Brown,Brown,R,No glasses,0,8.5,5,22,8,10,25,15,17,1.67,None,Attacker,Attacker,B,5,6,8,7,8,3,4,2,,,,,Kogetsu,Senkuu,Shield,,,Meteora,Shield,Bagworm
+Hiura Akane,F,15,7,7,154,O,Red,Red,Red,Other,R,No glasses,0,17,14,24,1,5,20,14.5,7,1.5,None,Sniper,Sniper,B,5,7,5,5,8,7,3,2,,,,,Eaglet,Ibis,Shield,Lightning,Bagworm,,Shield,Meteora
+Shiki Sayoko,F,16,8,9,156,A,Black,Black,Purple,Other,R,No glasses,0,3,6,9,4.5,3,2,24,1,1.5,None,Operator,Operator,B,7,,,,,,5,,9,7,7,7,,,,,,,,
+Kakizaki Kuniharu,M,19,11,25,177,A,Brown,Brown,Grey,Other,L,No glasses,0,22.5,4.5,19,8.5,9,29.5,19.5,12.5,3.8,Shinoda,All-rounder,Gunner,B,7,7,7,7,7,4,6,2,,,,,Asteroid (assault rifle),Meteora (assault rifle),Shield,,Kogetsu,Senkuu,Shield,Bagworm
+Teruya Fumika,F,16,7,21,157,O,Black,Black,Brown,Brown,R,No glasses,0,21.5,3.5,23,7,13,17,26.5,9.5,1.67,Kido,All-rounder,Gunner,B,7,6,7,6,8,4,5,2,,,,,Kogetsu,Senkuu,Shield,,Asteroid (assault rifle),Hound (assault rifle),Shield,Bagworm
+Tomoe Kotaro,M,14,12,2,154,B,Brown,Brown,Brown,Brown,L,No glasses,0,19.5,14,12.5,6,14,23.5,13,9.5,1.67,Kido,Gunner,Gunner,B,5,7,5,8,6,2,3,2,,,,,Hound (handgun),Asteroid (handgun),Shield,,Kogetsu,Dummy Beacon,Shield,Bagworm
+Ui Madoka,F,16,4,26,158,B,,,,,R,No glasses,0,,,,,,,,,,,Operator,Operator,B,2,,,,,,6,,7,7,8,5,,,,,,,,
+Taketomi Sakurako,F,15,,,,,Red,Red,Blue,Blue,R,No glasses,0,9,18,19,16,7.5,13,18,2,1.5,Shinoda,Operator,Operator,B,3,,,,,,5,,7,7,7,6,,,,,,,,
+Chano Makoto,F,16,10,30,168,B,Brown,Brown,Green,Green,R,No glasses,0,5,11,22.5,10,15,16,18,7.5,0.92,Kido,Gunner,Gunner,B,6,6,4,5,4,3,4,1,,,,,Asteroid (handgun),Hound (handgun),Shield,,Asteroid (handgun),Bagworm,Shield,
+Fujisawa Itsuki,M,16,4,10,174,AB,Black,Black,Black,Black,R,No glasses,0,17,11,17,17,4,21,20.5,8.5,0.92,Kido,Gunner,Gunner,B,6,5,6,5,5,3,3,1,,,,,Asteroid (handgun),Hound (handgun),Shield,,Asteroid (handgun),Bagworm,Shield,
+Tokura Megumi,F,17,5,1,156,A,,,,,R,No glasses,0,,,,,,,,,,,Operator,Operator,B,5,,,,,,5,,6,6,6,5,,,,,,,,
+Yoshizato Yuichiro,M,,,,,,,,,,,,0,,,,,,,,,,,Gunner,Gunner,B,6,5,6,5,6,4,6,3,,,,,Asteroid (assault rifle),Viper (assault rifle),Shield,,,,Shield,Bagworm
+Kitazoe Hidetaka,M,,,,,,,,,,,,0,,,,,,,,,,,All-rounder,Gunner,B,5,4,4,5,4,4,2,3,,,,,Asteroid (assault rifle),Viper (assault rifle),Shield,,Scorpion,,Shield,Bagworm
+Tsukimi Hanao,F,,,,,,,,,,,,0,,,,,,,,,,,Attacker,Attacker,B,6,5,5,5,4,2,3,4,,,,,Kogetsu,Senkuu,Shield,,,Teleporter,Shield,Bagworm
+Asagiri Asuka,F,,,,,,,,,,,,0,,,,,,,,,,,Operator,Operator,B,5,,,,,,5,,6,6,7,7,,,,,,,,
+Mamiya Keizo,M,,,,,,,,,,,,0,,,,,,,,,,,Shooter,Shooter,B,6,6,3,5,4,4,5,3,,,,,Hound,Asteroid,Shield,,Hound,Bagworm,Shield,
+Koinuma Mitsuya,M,,,,,,,,,,,,0,,,,,,,,,,,Shooter,Shooter,B,5,5,5,4,4,4,3,3,,,,,Hound,Asteroid,Shield,,Hound,Bagworm,Shield,
+Hata Minoru,M,,,,,,,,,,,,0,,,,,,,,,,,Shooter,Shooter,B,5,6,3,5,5,4,3,3,,,,,Hound,Meteora,Shield,,Hound,Bagworm,Shield,
+Kusumoto Aoi,F,,,,,,,,,,,,0,,,,,,,,,,,Operator,Operator,B,4,,,,,,6,,7,6,6,5,,,,,,,,
+Natsume Izuho,F,14,4,12,157,B,,,,,R,No glasses,0,15,18,15,7,8,26,10,15,0.17,Tamakoma,Sniper,Sniper,C,5,6,4,6,4,6,2,1,,,,,,,,,,,,
+Kouda Teruteru,M,,,,,,Black,Black,Black,Black,R,No glasses,0,4,3,6,13,18,16,21,5,0.17,Kido,Shooter,Shooter,C,6,6,5,5,5,4,5,3,,,,,,,,,,,,
+Hinoe Hidehide,M,,,,,,Red,Red,Black,Black,R,No glasses,0,13,12,7.5,12,11,17,19,6,0.17,None,Attacker,Attacker,C,5,4,6,6,5,1,4,3,,,,,,,,,,,,
+Saotome Fumifumi,M,,,,,,Brown,Brown,Black,Black,R,No glasses,0,17,16,8,14,8,17,19,11,0.17,Kido,Shooter,Shooter,C,6,6,4,5,5,4,3,3,,,,,,,,,,,,
+Rindo Yotaro,M,5,9,22,98,AB,Black,Black,Black,Black,,No glasses,1,15.5,8.5,21,18,16.5,10.5,3,15,5,Tamakoma,,,,7,1,1,2,2,1,5,3,,,,,,,,,,,,
+Hyrein,M,29,,,180,,Grey,Other,Blue,Blue,,No glasses,0,,,,,,,,,,,Neighbour,,,40,18,28,7,8,7,10,5,,,,,,,,,,,,
+Mira,F,23,,,162,,Red,Red,Red,Other,,No glasses,0,,,,,,,,,,,Neighbour,,,36,9,25,20,8,6,5,12,,,,,,,,,,,,
+Viza,M,65,,,176,,Grey,Other,,,,No glasses,0,,,,,,,,,,,Neighbour,,,58,32,16,7,14,7,8,4,,,,,,,,,,,,
+Hyuse,M,16,,,171,,Brown,Brown,Blue,Blue,L,No glasses,0,,,,,,,,,,,Neighbour,,,18,12,24,13,9,4,6,10,,,,,,,,,,,,
+Enedora,M,20,,,182,,Black,Black,Red,Other,,No glasses,0,,,,,,,,,,,Neighbour,,,41,15,24,7,8,4,5,18,,,,,,,,,,,,
+Ranbanein,M,24,,,202,,Red,Red,Green,Green,,No glasses,0,,,,,,,,,,,Neighbour,,,25,20,8,15,8,9,7,2,,,,,,,,,,,,
+Yomi,M,,,,157,,,,,,,,1,,,,,,,,,,,Neighbour,,,8,3,9,5,9,1,6,10,,,,,,,,,,,,
+Ratarikov,M,,,,174,,,,,,,,0,,,,,,,,,,,Neighbour,,,8,9,9,7,9,4,8,4,,,,,,,,,,,,
+Gatlin,M,,,,189,,,,,,,,0,,,,,,,,,,,Neighbour,,,10,13,9,6,10,5,9,4,,,,,,,,,,,,
+Wen So,F,,,,164,,,,,,,,0,,,,,,,,,,,Neighbour,,,6,9,8,9,9,2,7,7,,,,,,,,,,,,
+Reghindetz,M,,,,171,,,,,,,,0,,,,,,,,,,,Neighbour,,,7,8,6,8,7,4,5,5,,,,,,,,,,,,
+Saeki Ryuuji,,,,,,,,,,,,,0,,,,,,,,,,,All-rounder,,A,,,,,,,,,,,,,Kogetsu,Escudo,Shield,Senkuu,Asteroid (assault rifle),Escudo,Shield,Bagworm
+Satomi Kazuma,,,,,,,,,,,,,0,,,,,,,,,,,Gunner,,A,,,,,,,,,,,,,Asteroid (assault rifle),Hound (assault rifle),Shield,,Asteroid (handgun),,Shield,Bagworm
+Uno Hayato,,,,,,,,,,,,,0,,,,,,,,,,,Sniper,,A,,,,,,,,,,,,,Lightning,Eaglet,Shield,,Bagworm,Silencer,Shield,
+Kitagawa Mai,,,,,,,,,,,,,0,,,,,,,,,,,Trapper,,A,,,,,,,,,,,,,Switchbox,Chameleon,Shield,,Bagworm Tag,,,
+Katagiri Takaaki,,,,,,,,,,,,Glasses,0,,,,,,,,,,,Gunner,,A,,,,,,,,,,,,,Asteroid (assault rifle),Meteora (assault rifle),Shield,Eaglet,Bagworm,Dummy Beacon,Shield,Spider
+Ichijou Yukimaru,,,,,,,,,,,,,0,,,,,,,,,,,Attacker,,A,,,,,,,,,,,,,Raygust,Thruster,Shield,,Raygust,Thruster,Shield,Bagworm
+Momozono Touichirou,,,,,,,,,,,,,0,,,,,,,,,,,Sniper,,A,,,,,,,,,,,,,Eaglet,Ibis,Shield,,Bagworm,,Shield,
+Amakura Azumi,,,,,,,,,,,,,0,,,,,,,,,,,Spotter,,A,,,,,,,,,,,,,Radar Intensifier,Teleporter,Shield,Dummy Beacon,Bagworm,,,
+Ikoma Tatsuhito,M,,,,,,,,,,R,,0,,,,,,,,,,,Attacker,,B,,,,,,,,,,,,,Kogetsu,Senkuu,Shield,,,,Shield,Bagworm
+Mizukami Satoshi,M,,,,,,,,,,L,,0,,,,,,,,,,,Shooter,,B,,,,,,,,,,,,,Asteroid,Meteora,Shield,,Asteroid,Hound,Shield,Bagworm
+Oki Kouji,M,,,,,,,,,,R,,0,,,,,,,,,,,Sniper,,B,,,,,,,,,,,,,Eaglet,Lightning,Shield,Grasshopper,Bagworm,,Shield,
+Minamizawa Kai,M,,,,,,,,,,R,,0,,,,,,,,,,,Attacker,,B,,,,,,,,,,,,,Kogetsu,Senkuu,Shield,,Grasshopper,,Shield,Bagworm
+Yuba Takuma,,,,,,,,,,,,,0,,,,,,,,,,,Gunner,,B,,,,,,,,,,,,,Asteroid (handgun),Viper (handgun),Shield,,Asteroid (handgun),Viper (handgun),Shield,Bagworm
+Obishima Yukari,,,,,,,,,,,,,0,,,,,,,,,,,All-rounder,,B,,,,,,,,,,,,,Asteroid,Hound,Shield,Bagworm,Kogetsu,Senkuu,Shield,
+Tonooka Kazuto,,,,,,,,,,,,,0,,,,,,,,,,,Sniper,,B,,,,,,,,,,,,,Eaglet,Ibis,Shield,Lightning,Bagworm,,Shield,
+Ouji Kazuaki,,,,,,,,,,,L,,0,,,,,,,,,,,Attacker,,B,,,,,,,,,,,,,Kogetsu,Senkuu,Shield,,Scorpion,Hound,Shield,Bagworm
+Kurauchi Kazuki,,,,,,,,,,,,,0,,,,,,,,,,,Shooter,,B,,,,,,,,,,,,,Hound,Asteroid,Shield,Meteora,Hound,,Shield,Bagworm
+Kashio Yutaka,,,,,,,,,,,,,0,,,,,,,,,,,Attacker,,B,,,,,,,,,,,,,Kogetsu,Senkuu,Shield,,Grasshopper,Hound,Shield,Bagworm
+Urushima Wataru,,,,,,,,,,,,,0,,,,,,,,,,,Gunner,,B,,,,,,,,,,,,,Asteroid (assault rifle),Chameleon,Shield,Dummy Beacon,Bagworm,Silencer,Shield,Meteora
+Matsushiro Hitoshi,,,,,,,,,,,,,0,,,,,,,,,,,Gunner,,B,,,,,,,,,,,,,Asteroid (assault rifle),Meteora (assault rifle),Shield,,,Lead Bullet,Shield,Bagworm
+Hakoda Masakuni,,,,,,,,,,,,,0,,,,,,,,,,,Trapper,,B,,,,,,,,,,,,,Switchbox,Chameleon,Shield,,Bagworm Tag,,,
+Tsuchisaki Yuuya,,,,,,,,,,,,,0,,,,,,,,,,,Attacker,,B,,,,,,,,,,,,,Kogetsu,Senkuu,Shield,,,Dummy Beacon,Shield,Bagworm
+Ebina Takahiro,,,,,,,,,,,,,0,,,,,,,,,,,All-rounder,,B,,,,,,,,,,,,,Asteroid (assault rifle),Meteora (assault rifle),Shield,,Kogetsu,Senkuu,Shield,Bagworm
+Otogawa Yukito,,,,,,,,,,,,,0,,,,,,,,,,,Sniper,,B,,,,,,,,,,,,,Eaglet,Lightning,Shield,,Bagworm,,Shield,
+Motegi Shou,,,,,,,,,,,,,0,,,,,,,,,,,Attacker,,B,,,,,,,,,,,,,Scorpion,,Shield,,Scorpion,Bagworm,Shield,Grasshopper
+Tokiwa Mamoru,,,,,,,,,,,,,0,,,,,,,,,,,Attacker,,B,,,,,,,,,,,,,Kogetsu,Senkuu,Shield,,Bagworm,Silencer,Shield,
+Saitou Tokiya,,,,,,,,,,,,,0,,,,,,,,,,,Sniper,,B,,,,,,,,,,,,,Eaglet,Lightning,Shield,,Bagworm,Silencer,Shield,
+Utsunomiya Waka,,,,,,,,,,,,,0,,,,,,,,,,,Gunner,,B,,,,,,,,,,,,,Hound (assault rifle),Asteroid (assault rifle),Shield,,Bagworm,Silencer,Shield,
+Kera Yoshinobu,,,,,,,,,,,,,0,,,,,,,,,,,Attacker,,B,,,,,,,,,,,,,Kogetsu,Senkuu,Shield,,Bagworm,Silencer,Shield,
+Hayakawa Kitoru,,,,,,,,,,,,,0,,,,,,,,,,,All-rounder,,B,,,,,,,,,,,,,Kogetsu,Senkuu,Shield,,Asteroid,Hound,Shield,Bagworm
+Funabashi Ryougo,,,,,,,,,,,,,0,,,,,,,,,,,Gunner,,B,,,,,,,,,,,,,Asteroid (assault rifle),Hound (assault rifle),Shield,,,,Shield,Bagworm
+Marui Saiji,,,,,,,,,,,,,0,,,,,,,,,,,Gunner,,B,,,,,,,,,,,,,Meteora (grenade launcher),Hound (assault rifle),Shield,,,Starmaker,Shield,Bagworm
+Raijinmaru,F,,,,,,,,,,,,0,25.5,7.5,30,1,7,30,15,10,,,Mascot,,,0,,,,,,0,,,,,,,,,,,,,
